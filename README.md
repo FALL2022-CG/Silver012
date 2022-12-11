@@ -1,4 +1,4 @@
-# ComputerGraphicsTeam
+# ComputerGraphics Final Project
 
 팀명: 실버 012
 
