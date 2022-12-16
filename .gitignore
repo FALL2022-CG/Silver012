@@ -2,7 +2,7 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/End_of_the_Earth/[Ll]ibrary/
+/End_of_the_Earth/Library/
 /End_of_the_Earth/[Tt]emp/
 /End_of_the_Earth/[Oo]bj/
 /End_of_the_Earth/[Bb]uild/
